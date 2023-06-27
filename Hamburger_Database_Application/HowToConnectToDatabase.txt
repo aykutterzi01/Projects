@@ -1,0 +1,5 @@
+Please use the connection string below in the ApplicationDbContext class.
+
+"Data Source=.\\SQLEXPRESS;Initial Catalog={HamburgerDb};Integrated Security=True;TrustServerCertificate=False;"
+
+Then type database-update in the Package Manager Console and enter.
